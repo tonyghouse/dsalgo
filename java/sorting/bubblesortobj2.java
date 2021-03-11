@@ -1,4 +1,4 @@
-public class bubblesortobj{
+public class bubblesortobj2{
     public static void main(String[] args){
         ObjectMaker objects[]=new ObjectMaker[4];
         //test code
